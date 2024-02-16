@@ -1,0 +1,80 @@
+.bton{
+    height: 50px;
+    width: 70px;
+    font-size: 25px;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    bottom: 10px;
+}
+.bton:hover{
+    background-color: white;
+}
+.bton1{
+    height: 50px;
+    width: 70px;
+    font-size: 25px;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    bottom: 25px;
+}
+.bton1:hover{
+    background-color: white;
+}
+.bton2{
+    height: 50px;
+    width: 70px;
+    font-size: 25px;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    bottom: 42px;
+}
+.bton2:hover{
+    background-color: white;
+}
+.bton3{
+    height: 50px;
+    width: 70px;
+    font-size: 25px;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    bottom: 89px;
+    
+}
+.bton3:hover{
+    background-color: white;
+}
+.bton4{
+    height: 50px;
+    width: 70px;
+    font-size: 25px;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    bottom: 135px;
+    
+}
+.bton4:hover{
+    background-color: white;
+}
+.btoneql{
+    height: 110px;
+    width: 70px;
+    font-size: 25px;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    bottom: 60px;
+}
+.btoneql:hover{
+    background-color: white;
+}
